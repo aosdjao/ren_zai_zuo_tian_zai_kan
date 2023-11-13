@@ -1,3 +1,7 @@
 # ren_zai_zuo_tian_zai_kan
-这里有我在跟相关人士交涉所保留的所有证据，希望大家可以支持一下，假如这里也可以被ban掉，那我只能说是手眼通天了，我认命了。
-This repository is a recording of my communication with all the leaders of the School of Control at ZJU。
+
+#### 介绍
+这个仓库是为我在浙江大学控制学院期间与控制学院所有领导的交流录音记录。相信大家看完都有定论，有的人走之前什么都没留下，但不要觉得每个人都不会留下什么。 :yum: 
+ **还是很喜欢我导师的一句话：“在这里我是老大，他们都得听我的。”、“你不要想着换导师，我是不会给你签字的”** 
+控院伟大无需多言。如果这个仓库也被ban掉的话那就只能指望github了。[有本事把这个也给ban掉](https://github.com/aosdjao/ren_zai_zuo_tian_zai_kan)
+#### 文件说明
